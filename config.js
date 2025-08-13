@@ -18,7 +18,7 @@ global.confirmCode = ''
 
 global.owner = [
   [ '51941247696', 'gabriel', true ],
-  [ '51921826291', 'maycol', true ],
+  [ '50584887870', 'jonatangg', true ],
   [ '639104096580', 'José', true ],
   [ '5216633900512', 'BrayanOFC',true ],
 // ABRAN PASO PARA LA MERA VRG
