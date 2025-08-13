@@ -17,7 +17,7 @@ global.confirmCode = ''
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  [ '50488198573', 'Deylin', true ],
+  [ '51941247696', 'gabriel', true ],
   [ '51921826291', 'maycol', true ],
   [ '639104096580', 'José', true ],
   [ '5216633900512', 'BrayanOFC',true ],
@@ -52,10 +52,10 @@ global.astroJadibts = true
 global.packname = '𝐀𝐬𝐭𝐫𝐨-𝐁𝐨𝐭'
 global.botname = '𝑨𝒔𝒕𝒓𝒐 - 𝑩𝒐𝒕'
 global.wm = '𝐀𝐬𝐭𝐫𝐨 𝐁𝐨𝐭'
-global.author = 'Made By 𝐃𝐞𝐲𝐥𝐢𝐧'
+global.author = 'Made By gabriel'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ 𝑫𝒆𝒚𝒍𝒊𝒏'
-global.textbot = '𝐀𝐬𝐭𝐫𝐨 - 𝐁𝐨𝐭 • Powered By 𝑫𝒆𝒚𝒍𝒊𝒏'
-global.etiqueta = '𝑫𝒆𝒚𝒍𝒊𝒏'
+global.textbot = '𝐀𝐬𝐭𝐫𝐨 - 𝐁𝐨𝐭 • Powered By Gabriel'
+global.etiqueta = 'gabriel'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
